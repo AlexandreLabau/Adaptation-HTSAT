@@ -27,7 +27,7 @@ Below is the updated README in English with added instructions for preparing the
 
 # HTS-Audio-Transformer
 
-This repository implements an Audio Transformer with a simplified installation process—eliminating the need for a `requirements.txt` file. Installation is performed via Conda and Pip, and configuration is managed in the `config.py` file.
+Installation is performed via Conda and Pip, and configuration is managed in the `config.py` file.
 
 > **Note:** This repository is a refactored version of [RetroCirce/HTS-Audio-Transformer](https://github.com/RetroCirce/HTS-Audio-Transformer) with a streamlined organization for easier installation and usage.
 
